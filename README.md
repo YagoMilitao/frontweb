@@ -1,14 +1,6 @@
 # FrontendUploadArquivos
-Este é o frontend do sistema web de agenda de eventos. 
-O sistema será feito em ReactJS e posteriormente hospedado no Heroku
-O backend está hospedado  [Aqui](https://github.com/YagoMilitao/BackendAgendaEventos)
-
+Este é o frontend do sistema web de UploadDeVideos. 
+Esta parte contém o backend desenvolvido em Node.JS e o modelo MVC implementado
 ## Author
 
 * **Yago Militão** -  [meu github](https://github.com/YagoMilitao)
-
-- [x] Documentação do sistema
-- [x] Levantamento dos requisitos
-- [x] Implementação do Frontend
-- [ ] Testes
-- [ ] Hospedagem
